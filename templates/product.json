@@ -1,0 +1,481 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "badges_tFL3ni": {
+          "type": "badges",
+          "settings": {
+            "sale_badge": true,
+            "product_badges": true,
+            "custom_badge_1": "",
+            "custom_badge_2": "",
+            "custom_badge_3": "",
+            "badge_border_style": "square",
+            "padding_bottom": 12
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading_option": "none",
+            "heading_font_size": "heading-small",
+            "padding_bottom": 8
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "text_font_size": "body-medium",
+            "show_shipping_policy": true,
+            "padding_bottom": 8
+          }
+        },
+        "839c690b-01ab-493f-890f-127c213ae24a": {
+          "type": "inventory_countdown",
+          "settings": {
+            "show_notice": "low-inventory",
+            "max_inventory": 10,
+            "show_inventory_counter": false,
+            "icon_size": 20,
+            "in_stock_color": "#56ad6a",
+            "low_stock_color": "#f7a454",
+            "out_of_stock_color": "#721c24",
+            "padding_bottom": 16
+          }
+        },
+        "variants": {
+          "type": "variants",
+          "settings": {
+            "info_page": "size-chart",
+            "size_chart_style": "text",
+            "option_font_size": "body-medium",
+            "value_font_size": "body-x-small",
+            "padding_bottom": 16
+          }
+        },
+        "c0ada341-93fb-407a-a85a-2e8e843b5c71": {
+          "type": "siblings",
+          "settings": {
+            "option_font_size": "body-medium",
+            "value_font_size": "body-x-small",
+            "padding_bottom": 16
+          }
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {
+            "show_quantity": true,
+            "button_type": "btn--primary",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_dynamic_checkout": false,
+            "button_type_dynamic": "btn--primary",
+            "button_size_dynamic": "btn--large",
+            "button_style_dynamic": "btn--solid",
+            "show_gift_card_recipient": false,
+            "padding_bottom": 16
+          }
+        },
+        "estimate_delivery_9mQgBV": {
+          "type": "estimate_delivery",
+          "settings": {
+            "label": "Estimated delivery:",
+            "days_from_today": 5,
+            "text_font_size": "body-small",
+            "padding_bottom": 24
+          }
+        },
+        "fit_guide_MPpdy9": {
+          "type": "fit-guide",
+          "settings": {
+            "heading": "Fit",
+            "segment_selected": 4,
+            "left_label": "Small",
+            "middle_label": "True to size",
+            "right_label": "Large",
+            "fit_color": "",
+            "padding_bottom": 24
+          }
+        },
+        "icon_2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-wash",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "text": "<p>Wash at 30°C</p>",
+            "text_font_size": "body-small",
+            "width": "full",
+            "padding_bottom": 6
+          }
+        },
+        "icon_1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-pants",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "text": "<p>100% cotton</p>",
+            "text_font_size": "body-small",
+            "width": "full",
+            "padding_bottom": 8
+          }
+        },
+        "60981233-a653-4b01-a86f-f8a9e1831a2e": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-diameter",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "text": "<p>Fits true to size</p>",
+            "text_font_size": "body-small",
+            "width": "full",
+            "padding_bottom": 16
+          }
+        },
+        "16bb7966-a287-4820-bb42-b27c107d022e": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "heading_font_size": "body-medium",
+            "text": "<p>Model is 5'8\". Wearing a small top and small bottoms.</p>",
+            "text_font_size": "body-small",
+            "text_alignment": "text-left",
+            "layout": "left",
+            "padding_bottom": 16
+          }
+        },
+        "49d74481-58b4-4a1f-9171-be0546e57c57": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 2
+          }
+        },
+        "accordion_baNPDy": {
+          "type": "accordion",
+          "settings": {
+            "style": "drawer",
+            "show_description": false,
+            "show_read_more": true,
+            "default_open": false,
+            "heading": "Details",
+            "heading_font_size": "body-small",
+            "text": "<p>Crafted with thoughtful design and timeless appeal, this piece features a flattering silhouette made to move with you. From the soft drape of the fabric to the subtle finishing touches, every element is designed to feel as beautiful as it looks. Whether worn casually or dressed up, it’s a staple you’ll return to again and again.</p>",
+            "text_font_size": "body-medium",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "",
+            "padding_bottom": 0
+          }
+        },
+        "accordion_Tpax6M": {
+          "type": "accordion",
+          "settings": {
+            "style": "drawer",
+            "show_description": false,
+            "show_read_more": true,
+            "default_open": false,
+            "heading": "Fabric & Care",
+            "heading_font_size": "body-small",
+            "text": "<p>Made from carefully selected fabrics that balance comfort, durability, and elegance. To keep your piece looking its best, we recommend washing on a gentle cycle or by hand in cold water, then laying flat to dry. Avoid harsh detergents or high heat. Refer to the garment label for full care instructions.</p>",
+            "text_font_size": "body-medium",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "",
+            "padding_bottom": 0
+          }
+        },
+        "accordion_VBxAXL": {
+          "type": "accordion",
+          "settings": {
+            "style": "drawer",
+            "show_description": false,
+            "show_read_more": true,
+            "default_open": false,
+            "heading": "Shipping & Returns",
+            "heading_font_size": "body-small",
+            "text": "<p>We offer fast, reliable shipping and easy returns on all unworn items within our return window. Once your order ships, you’ll receive a tracking link so you can follow it every step of the way. If you need a different size or style, exchanges are simple — just visit our Returns page or contact our team for assistance.</p>",
+            "text_font_size": "body-medium",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "",
+            "padding_bottom": 24
+          }
+        },
+        "upsell": {
+          "type": "upsell",
+          "settings": {
+            "upsell_product": "houndstooth-slingbacks",
+            "upsell_product_list": [],
+            "show_available_upsell_only": false,
+            "layout": "stacked",
+            "autoplay": false,
+            "autoplay_speed": 8,
+            "bg_color": "#f2e9e0",
+            "padding_bottom": 24
+          }
+        },
+        "text_YNARzE": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "heading_font_size": "body-medium",
+            "text_font_size": "body-small",
+            "text_alignment": "text-left",
+            "layout": "left",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "badges_tFL3ni",
+        "title",
+        "price",
+        "839c690b-01ab-493f-890f-127c213ae24a",
+        "variants",
+        "c0ada341-93fb-407a-a85a-2e8e843b5c71",
+        "buttons",
+        "estimate_delivery_9mQgBV",
+        "fit_guide_MPpdy9",
+        "icon_2",
+        "icon_1",
+        "60981233-a653-4b01-a86f-f8a9e1831a2e",
+        "16bb7966-a287-4820-bb42-b27c107d022e",
+        "49d74481-58b4-4a1f-9171-be0546e57c57",
+        "accordion_baNPDy",
+        "accordion_Tpax6M",
+        "accordion_VBxAXL",
+        "upsell",
+        "text_YNARzE"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "variant_image_scroll": true,
+        "show_cart_bar": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "image_layout": "stacked",
+        "image_size": "normal",
+        "mobile_image_style": "thumbs",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_accordion_group_bjk7VK": {
+      "type": "section-accordion-group",
+      "blocks": {
+        "heading_MYnC7q": {
+          "type": "heading",
+          "settings": {
+            "title": "FAQ"
+          }
+        },
+        "question_386dEU": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "What’s the best way to care for my item?",
+            "content": "<p>To keep your piece looking its best, we recommend gentle care. Most dresses should be hand-washed or washed on a delicate cycle in cold water, then laid flat to dry. Always check the care label for specific instructions based on the fabric.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_cUMMJP": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "Can I return or exchange this item?",
+            "content": "<p>Yes — we happily accept returns and exchanges on unworn items within our return window. Simply follow the instructions in your order confirmation email or visit our Returns page to begin the process.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        },
+        "question_LepRYW": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "Do you ship internationally?",
+            "content": "<p>Yes — we offer international shipping to many countries. Shipping rates and estimated delivery times will appear at checkout based on your location.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_MYnC7q",
+        "question_386dEU",
+        "question_cUMMJP",
+        "question_LepRYW"
+      ],
+      "name": "Accordion group",
+      "settings": {
+        "heading_font_size": "heading-medium",
+        "question_font_size": "heading-x-small",
+        "width": "wrapper",
+        "columns": "1",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_text_row_6hWNFt": {
+      "type": "section-text-row",
+      "blocks": {
+        "icon_8BdC9w": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-recycle",
+            "icon_size": 20,
+            "icon_color": "",
+            "title": "Easy returns",
+            "heading_font_size": "heading-x-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "icon_C7niTD": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shield",
+            "icon_size": 20,
+            "icon_color": "",
+            "title": "Secure transactions",
+            "heading_font_size": "heading-x-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "icon_VKtRDT": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-fast-shipment",
+            "icon_size": 20,
+            "icon_color": "",
+            "title": "Fast shipping",
+            "heading_font_size": "heading-x-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "icon_8BdC9w",
+        "icon_C7niTD",
+        "icon_VKtRDT"
+      ],
+      "name": "Text columns with icons",
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "align_heading": "text-center",
+        "align_text": "text-center",
+        "icon_alignment": "icon--top",
+        "width": "wrapper",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 3,
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "related": {
+      "type": "related",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "product_recommendations_heading": "You might also like"
+          }
+        },
+        "28251432-117e-443d-8335-ec484b3c7e1e": {
+          "type": "recent",
+          "settings": {
+            "product_recently_heading": "Recently viewed"
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "28251432-117e-443d-8335-ec484b3c7e1e"
+      ],
+      "settings": {
+        "enable_tabs": true,
+        "heading_alignment": "text-center",
+        "heading_font_size": "heading-medium",
+        "limit": 4,
+        "layout_desktop": "slider",
+        "grid": 4,
+        "rows": 3,
+        "layout_mobile": "2",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 30
+      }
+    },
+    "section_newsletter_7CYgxK": {
+      "type": "section-newsletter",
+      "blocks": {
+        "newsletter_EWW3H3": {
+          "type": "newsletter",
+          "settings": {
+            "subheading": "Newsletter",
+            "heading": "Sign up",
+            "heading_font_size": "heading-large",
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
+            "text_font_size": "body-medium",
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "Join",
+            "show_arrow": false,
+            "terms": false,
+            "show_name": false,
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_social_links": false,
+            "bg_color": "",
+            "color": "",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "newsletter_EWW3H3"
+      ],
+      "name": "Newsletter",
+      "settings": {
+        "width": "wrapper--full",
+        "height": "three-fifty-height-hero",
+        "mobile_height": "screen-height-one-half--mobile",
+        "color_scheme": "scheme-3",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_accordion_group_bjk7VK",
+    "section_text_row_6hWNFt",
+    "related",
+    "section_newsletter_7CYgxK"
+  ]
+}

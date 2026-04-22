@@ -1,0 +1,813 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading_option": "none",
+            "heading_font_size": "heading-medium",
+            "padding_bottom": 8
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        },
+        "description_Hxmccx": {
+          "type": "description",
+          "settings": {
+            "show_read_more": true,
+            "padding_bottom": 16
+          }
+        },
+        "tabs": {
+          "type": "tab_richtext",
+          "disabled": true,
+          "settings": {
+            "show_description": true,
+            "show_read_more": true,
+            "title_1": "Tab",
+            "raw_content_1": "<p>This content type will accept <strong>rich text</strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.</p>",
+            "title_2": "Info",
+            "title_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "raw_content_5": "",
+            "padding_bottom": 16
+          }
+        },
+        "839c690b-01ab-493f-890f-127c213ae24a": {
+          "type": "inventory_countdown",
+          "settings": {
+            "show_notice": "low-inventory",
+            "max_inventory": 10,
+            "icon_size": 20,
+            "in_stock_color": "#56ad6a",
+            "low_stock_color": "#f7a454",
+            "out_of_stock_color": "#721c24",
+            "padding_bottom": 16
+          }
+        },
+        "variants": {
+          "type": "variants",
+          "settings": {
+            "info_page": "",
+            "size_chart_style": "question",
+            "padding_bottom": 16
+          }
+        },
+        "c0ada341-93fb-407a-a85a-2e8e843b5c71": {
+          "type": "siblings",
+          "settings": {
+            "padding_bottom": 16
+          }
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {
+            "show_quantity": true,
+            "button_type": "btn--black",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "button_type_dynamic": "btn--black",
+            "button_size_dynamic": "",
+            "button_style_dynamic": "btn--solid",
+            "show_gift_card_recipient": false,
+            "padding_bottom": 16
+          }
+        },
+        "16bb7966-a287-4820-bb42-b27c107d022e": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "heading_font_size": "body-medium",
+            "text": "<p>Model is 6'1\" and 175lbs. Wearing a Medium top and 32\" bottoms.</p>",
+            "text_font_size": "body-medium",
+            "text_alignment": "text-left",
+            "layout": "left",
+            "padding_bottom": 24
+          }
+        },
+        "fit_guide_MPpdy9": {
+          "type": "fit-guide",
+          "settings": {
+            "heading": "Fit",
+            "left_label": "Small",
+            "middle_label": "True to size",
+            "right_label": "Large",
+            "fit_color": "",
+            "padding_bottom": 24
+          }
+        },
+        "icon_2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-wash",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "text": "<p>Title</p>",
+            "text_font_size": "body-medium",
+            "width": "full",
+            "padding_bottom": 6
+          }
+        },
+        "icon_1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-pants",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "text": "<p>Title</p>",
+            "text_font_size": "body-medium",
+            "width": "full",
+            "padding_bottom": 8
+          }
+        },
+        "60981233-a653-4b01-a86f-f8a9e1831a2e": {
+          "type": "icon",
+          "disabled": true,
+          "settings": {
+            "icon_name": "icon-diameter",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "text": "<p>Title</p>",
+            "text_font_size": "body-medium",
+            "width": "full",
+            "padding_bottom": 16
+          }
+        },
+        "49d74481-58b4-4a1f-9171-be0546e57c57": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "upsell": {
+          "type": "upsell",
+          "settings": {
+            "upsell_product": "jacquard-knit-crewneck-laua-e-nude",
+            "upsell_product_list": [],
+            "show_available_upsell_only": false,
+            "layout": "stacked",
+            "autoplay": false,
+            "autoplay_speed": 8,
+            "bg_color": "#ececec",
+            "padding_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "description_Hxmccx",
+        "tabs",
+        "839c690b-01ab-493f-890f-127c213ae24a",
+        "variants",
+        "c0ada341-93fb-407a-a85a-2e8e843b5c71",
+        "buttons",
+        "16bb7966-a287-4820-bb42-b27c107d022e",
+        "fit_guide_MPpdy9",
+        "icon_2",
+        "icon_1",
+        "60981233-a653-4b01-a86f-f8a9e1831a2e",
+        "49d74481-58b4-4a1f-9171-be0546e57c57",
+        "upsell"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "variant_image_scroll": true,
+        "show_cart_bar": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "image_layout": "stacked",
+        "image_size": "normal",
+        "mobile_image_style": "thumbs",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "419b730f-1e37-47b0-a1ff-6118e97e1006": {
+      "type": "section-text-row",
+      "blocks": {
+        "02dd4644-e473-49d2-bb82-aa13c10235c3": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-recycle",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "title": "Recyclable Materials",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "b7d6a2ae-c6e4-4e48-b94d-bc77bcd92eb0": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-star",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "title": "Premium Quality",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "f81d3b70-15e8-407f-8522-63695d1310a3": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-peace",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "title": "Ethical Sourcing",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "02dd4644-e473-49d2-bb82-aa13c10235c3",
+        "b7d6a2ae-c6e4-4e48-b94d-bc77bcd92eb0",
+        "f81d3b70-15e8-407f-8522-63695d1310a3"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "icon_alignment": "icon--top",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 3,
+        "layout_mobile": "carousel",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "bc646da7-8fab-4a10-aa67-2de9b9dadf16": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 0
+      }
+    },
+    "7799ab17-b729-4e5e-8636-abf579fe3cea": {
+      "type": "section-text-row",
+      "blocks": {
+        "template--14654551720000__7799ab17-b729-4e5e-8636-abf579fe3cea-icon-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-recycle",
+            "icon_size": 20,
+            "icon_color": "#32393e",
+            "title": "Recyclable Materials",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "df894f0b-4d3d-4fb4-a26b-2c47a68534b5": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-star",
+            "icon_size": 20,
+            "icon_color": "#32393e",
+            "title": "Premium Quality",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "4abaaeb5-f3b9-49fa-82c4-f430063c72a1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-peace",
+            "icon_size": 20,
+            "icon_color": "#32393e",
+            "title": "Ethical Sourcing",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "template--14654551720000__7799ab17-b729-4e5e-8636-abf579fe3cea-icon-1",
+        "df894f0b-4d3d-4fb4-a26b-2c47a68534b5",
+        "4abaaeb5-f3b9-49fa-82c4-f430063c72a1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "icon_alignment": "icon--top",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 3,
+        "layout_mobile": "carousel",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "ac2eee97-847a-4e0c-97e2-dddd00113666": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "about": {
+      "type": "section-accordion",
+      "blocks": {
+        "about-0": {
+          "type": "image",
+          "settings": {
+            "title": "Cotton",
+            "heading_font_size": "heading-small",
+            "text": "<p>Our clothing is made with the finest, responsibly sourced cotton, offering exceptional comfort while aligning with our commitment to sustainability.</p><p>To care for cotton clothing, machine wash in cold or warm water with a mild detergent, and avoid overloading the machine to prevent excess wear. After washing, tumble dry on a low or medium heat setting or line dry to maintain the fabric's quality and avoid excessive shrinkage.</p>",
+            "aspect_ratio": 0.6
+          }
+        },
+        "about-1": {
+          "type": "image",
+          "settings": {
+            "title": "Nylon",
+            "heading_font_size": "heading-small",
+            "text": "<p>Our nylon is carefully chosen for its durability and versatility, ensuring that our clothing is built to last. We are equally committed to responsible sourcing, contributing to a more sustainable future. </p><p>When caring for nylon clothing, machine wash in cold water using a gentle cycle to prevent damage to the fabric. Avoid using bleach and opt for air drying or tumble drying on a low heat setting to maintain the garment's shape and prevent overheating or melting.</p>",
+            "aspect_ratio": 0.6
+          }
+        },
+        "about-2": {
+          "type": "image",
+          "settings": {
+            "title": "Denim",
+            "heading_font_size": "heading-small",
+            "text": "<p>Sustainable denim involves using eco-friendly materials like organic cotton or recycled denim, employing efficient dyeing processes, reducing water and energy consumption, and ensuring ethical labor practices.</p><p>To care for denim clothing, turn it inside out and wash in cold water to preserve the color. Hang or line dry to prevent excessive shrinkage, and only iron if necessary, using medium heat to avoid damaging the fabric's structure.</p>",
+            "aspect_ratio": 0.6
+          }
+        }
+      },
+      "block_order": [
+        "about-0",
+        "about-1",
+        "about-2"
+      ],
+      "settings": {
+        "default_open": false,
+        "title": "Fabric + Care",
+        "heading_font_size": "heading-medium",
+        "show_icon": false,
+        "icon_name": "icon-award",
+        "icon_size": 20,
+        "width": "wrapper",
+        "color_scheme": "",
+        "icon_color": "#545454",
+        "padding_top": 50,
+        "padding_bottom": 0
+      }
+    },
+    "31cc5823-28d5-45a2-882e-37655bbc8c69": {
+      "type": "section-accordion",
+      "blocks": {
+        "8fdcc3cc-5810-4bae-a88f-7d2ac651517c": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "<p>Should you require guidance while selecting your size, please feel free to reach out to our customer support team. Keep in mind that the sizes displayed in our Size Charts are approximate. We encourage you to shop thoughtfully and consult our Size Chart for the most accurate fit.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "8fdcc3cc-5810-4bae-a88f-7d2ac651517c"
+      ],
+      "settings": {
+        "default_open": false,
+        "title": "Size + Fit",
+        "heading_font_size": "heading-medium",
+        "show_icon": false,
+        "icon_name": "icon-award",
+        "icon_size": 20,
+        "width": "wrapper",
+        "color_scheme": "",
+        "icon_color": "#545454",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "shipping": {
+      "type": "section-accordion",
+      "blocks": {
+        "shipping-0": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-fast-shipment",
+            "icon_size": 20,
+            "icon_color": "#32393e",
+            "title": "Fast shipping",
+            "heading_font_size": "heading-small",
+            "icon_alignment": "left",
+            "text": "<p>Our shipping policy is designed with your convenience in mind. We strive to provide efficient and reliable delivery services, with various shipping options to suit your preferences. You can count on us to keep you informed every step of the way, ensuring a seamless and worry-free shopping experience.</p>",
+            "text_alignment": "text-left"
+          }
+        },
+        "shipping-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-box",
+            "icon_size": 20,
+            "icon_color": "#32393e",
+            "title": "Order tracking",
+            "heading_font_size": "heading-small",
+            "icon_alignment": "left",
+            "text": "<p>Stay in control of your order with our easy-to-use tracking feature. As soon as your order is on its way, you'll receive a tracking number to monitor its journey from our warehouse to your doorstep. With real-time updates, you'll always know where your package is, giving you peace of mind and the power to plan accordingly.</p>",
+            "text_alignment": "text-left"
+          }
+        },
+        "shipping-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_size": 20,
+            "icon_color": "#32393e",
+            "title": "Get in touch",
+            "heading_font_size": "heading-small",
+            "icon_alignment": "left",
+            "text": "<p>We're here to assist you every step of the way. If you have any questions, concerns, or just want to say hello, don't hesitate to get in touch with our friendly customer support team. Reach out through our contact page, and we'll be more than happy to help with any inquiries or assistance you may need. Your satisfaction is our priority.</p>",
+            "text_alignment": "text-left"
+          }
+        }
+      },
+      "block_order": [
+        "shipping-0",
+        "shipping-1",
+        "shipping-2"
+      ],
+      "settings": {
+        "default_open": false,
+        "title": "Shipping + Returns",
+        "heading_font_size": "heading-medium",
+        "show_icon": false,
+        "icon_name": "icon-award",
+        "icon_size": 20,
+        "width": "wrapper",
+        "color_scheme": "",
+        "icon_color": "#545454",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "7b190666-048c-482f-9394-d8ca1f11aa7f": {
+      "type": "section-custom-content",
+      "blocks": {
+        "ac09e3b1-a640-4951-b7d9-20233b8b16e9": {
+          "type": "review",
+          "settings": {
+            "title": "Zuhair A.",
+            "subheading": "Customer",
+            "review": "It's refreshing to experience such a high level of care and commitment to customers. It's one of the many reasons I keep coming back.",
+            "review_url": "",
+            "show_quotation_marks": true,
+            "align_text": "text-left",
+            "bg_color": "#f5f5f5",
+            "color": "#1d2226"
+          }
+        },
+        "template--14654551720000__7b190666-048c-482f-9394-d8ca1f11aa7f-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "heading_font_size": "heading-large",
+            "text": "",
+            "text_font_size": "body-medium",
+            "flex_align": "align--middle-center",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "ac09e3b1-a640-4951-b7d9-20233b8b16e9",
+        "template--14654551720000__7b190666-048c-482f-9394-d8ca1f11aa7f-image-1"
+      ],
+      "settings": {
+        "borders": false,
+        "gutters": false,
+        "width": "wrapper--full",
+        "height": "sixty-fifty-height-hero",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "48fba82e-fd74-446f-8946-31564a31eb0e": {
+      "type": "section-double",
+      "blocks": {
+        "template--14737942642752__48fba82e-fd74-446f-8946-31564a31eb0e-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Street-Ready athleticwear",
+            "padding_bottom": 16
+          }
+        },
+        "template--14737942642752__48fba82e-fd74-446f-8946-31564a31eb0e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Find your style",
+            "heading_font_size": "heading-x-large",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14737942642752__48fba82e-fd74-446f-8946-31564a31eb0e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you're drawn to bold graphics, abstract designs, or inspirational quotes, our screenprinted tees offer a way to make a statement, share your vibes, and express your individuality.</p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        },
+        "b9bf25e7-ab16-4506-85f6-185777ac9cbf": {
+          "type": "collection",
+          "settings": {
+            "show_collection_card": true,
+            "collection_1": "bestsellers",
+            "button_text_1": "",
+            "collection_2": "new-arrivals",
+            "button_text_2": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "template--14737942642752__48fba82e-fd74-446f-8946-31564a31eb0e-subheading-1",
+        "template--14737942642752__48fba82e-fd74-446f-8946-31564a31eb0e-heading-1",
+        "template--14737942642752__48fba82e-fd74-446f-8946-31564a31eb0e-text-1",
+        "b9bf25e7-ab16-4506-85f6-185777ac9cbf"
+      ],
+      "settings": {
+        "image_width": "one-half",
+        "text_alignment": "text-center",
+        "layout": "",
+        "width": "wrapper--full",
+        "height": "sixty-fifty-height-hero",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "related": {
+      "type": "related",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "product_recommendations_heading": "You might also like"
+          }
+        },
+        "28251432-117e-443d-8335-ec484b3c7e1e": {
+          "type": "recent",
+          "settings": {
+            "product_recently_heading": "Recently viewed"
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "28251432-117e-443d-8335-ec484b3c7e1e"
+      ],
+      "settings": {
+        "enable_tabs": false,
+        "heading_alignment": "text-left",
+        "heading_font_size": "heading-large",
+        "layout_mobile": "2",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 30
+      }
+    },
+    "18e0cb93-3d35-4575-893d-b05a67aa959a": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "cdf904c4-46ac-47ec-bf6f-6c333761d2c1": {
+      "type": "section-columns",
+      "blocks": {
+        "template--14654551720000__cdf904c4-46ac-47ec-bf6f-6c333761d2c1-image-1": {
+          "type": "image",
+          "settings": {
+            "image_width": 66,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "heading_tag": "automatic"
+          }
+        },
+        "c98031ec-70a9-42d4-98ce-59f70045f27e": {
+          "type": "image",
+          "settings": {
+            "image_width": 66,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "heading_tag": "automatic"
+          }
+        },
+        "73b52aad-456c-442a-8cef-466c9e1acf8d": {
+          "type": "image",
+          "settings": {
+            "image_width": 66,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "heading_tag": "automatic"
+          }
+        },
+        "d7b34df1-e955-48c7-8b18-feb6e81bcb7f": {
+          "type": "image",
+          "settings": {
+            "image_width": 66,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "heading_tag": "automatic"
+          }
+        },
+        "12a50cb5-330c-415b-8b24-6060e3cf7daf": {
+          "type": "image",
+          "settings": {
+            "image_width": 66,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "heading_tag": "automatic"
+          }
+        },
+        "f0364890-97f1-41b9-9d30-faed3e416fa5": {
+          "type": "image",
+          "settings": {
+            "image_width": 66,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 1,
+            "mobile_image_aspect_ratio": 1,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "template--14654551720000__cdf904c4-46ac-47ec-bf6f-6c333761d2c1-image-1",
+        "c98031ec-70a9-42d4-98ce-59f70045f27e",
+        "73b52aad-456c-442a-8cef-466c9e1acf8d",
+        "d7b34df1-e955-48c7-8b18-feb6e81bcb7f",
+        "12a50cb5-330c-415b-8b24-6060e3cf7daf",
+        "f0364890-97f1-41b9-9d30-faed3e416fa5"
+      ],
+      "settings": {
+        "title": "follow us @broadcast",
+        "heading_font_size": "heading-small",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 6,
+        "layout_mobile": "2",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "419b730f-1e37-47b0-a1ff-6118e97e1006",
+    "bc646da7-8fab-4a10-aa67-2de9b9dadf16",
+    "7799ab17-b729-4e5e-8636-abf579fe3cea",
+    "ac2eee97-847a-4e0c-97e2-dddd00113666",
+    "about",
+    "31cc5823-28d5-45a2-882e-37655bbc8c69",
+    "shipping",
+    "7b190666-048c-482f-9394-d8ca1f11aa7f",
+    "48fba82e-fd74-446f-8946-31564a31eb0e",
+    "related",
+    "18e0cb93-3d35-4575-893d-b05a67aa959a",
+    "cdf904c4-46ac-47ec-bf6f-6c333761d2c1"
+  ]
+}

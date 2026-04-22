@@ -1,0 +1,22 @@
+{
+  "sections": {
+    "main": {
+      "type": "list-collections",
+      "settings": {
+        "display_type": "all",
+        "title": "Collections",
+        "heading_font_size": "heading-large",
+        "grid": 4,
+        "rows": 1,
+        "layout_mobile": "slider",
+        "color_scheme": "scheme-369ea44d-d70d-48e4-9ed8-f4e1e6badee9",
+        "padding_top": 32,
+        "padding_bottom": 32,
+        "heading_tag": "automatic"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

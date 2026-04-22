@@ -1,0 +1,517 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "heading_font_size": "heading-large",
+        "show_content": true,
+        "text_font_size": "body-medium",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "460dc7dd-5ba6-47df-8f38-5d7c78d52ba3": {
+      "type": "section-hero",
+      "blocks": {
+        "template--14654551588928__460dc7dd-5ba6-47df-8f38-5d7c78d52ba3-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Step into a world where fashion becomes a statement, and style is a reflection of your unique personality. Our latest lookbook is a visual journey through the essence of urban cool, showcasing a curated selection of outfits that redefine casual sportswear.",
+            "heading_font_size": "heading-mini",
+            "heading_tag": "automatic"
+          }
+        },
+        "e43e5213-c05f-4a74-b5a8-bdf71fa747fb": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop full collection",
+            "button_type": "btn--white",
+            "button_size": "btn--large",
+            "button_style": "btn--text",
+            "show_arrow": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14654551588928__460dc7dd-5ba6-47df-8f38-5d7c78d52ba3-heading-1",
+        "e43e5213-c05f-4a74-b5a8-bdf71fa747fb"
+      ],
+      "settings": {
+        "link": "",
+        "width": "wrapper--full",
+        "height": "sixty-fifty-height-hero",
+        "flex_align_desktop": "align--bottom-left-desktop",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "color_scheme": "scheme-2",
+        "show_text_background": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "059f2d3c-061e-45f3-b96a-0bf8d15e748f": {
+      "type": "section-products-image",
+      "blocks": {
+        "template--14683115356224__059f2d3c-061e-45f3-b96a-0bf8d15e748f-products-1": {
+          "type": "products",
+          "settings": {
+            "layout_mobile": "2"
+          }
+        },
+        "template--14683115356224__059f2d3c-061e-45f3-b96a-0bf8d15e748f-image-1": {
+          "type": "image",
+          "settings": {
+            "mobile_height": "screen-height-one-half--mobile",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "text": "",
+            "text_font_size": "body-medium",
+            "flex_align": "align--middle-center",
+            "link_text": "",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#ffffff",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "template--14683115356224__059f2d3c-061e-45f3-b96a-0bf8d15e748f-products-1",
+        "template--14683115356224__059f2d3c-061e-45f3-b96a-0bf8d15e748f-image-1"
+      ],
+      "settings": {
+        "width": "wrapper--full-padded",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "c2b1eb09-1014-47bf-b61f-5f9f1ad9316f": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "66529278-152e-40f1-9ad4-6e41f31105e2": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 0.7,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "boat shirt in blue",
+            "button_type": "btn--black hero__btn",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "5f899481-91ce-448b-906b-f086efaf4a70": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 0.7,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "breeze crew in green",
+            "button_type": "btn--black hero__btn",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "947342fd-cf92-43b4-8039-49a942a71bee": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 0.7,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "homeland tee in white",
+            "button_type": "btn--black hero__btn",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "66529278-152e-40f1-9ad4-6e41f31105e2",
+        "5f899481-91ce-448b-906b-f086efaf4a70",
+        "947342fd-cf92-43b4-8039-49a942a71bee"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "width": "wrapper",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "carousel",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "collection-first": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "featured_collection": "t-shirts",
+        "heading": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "text_font_size": "body-medium",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--black",
+        "button_size": "",
+        "button_style": "btn--outline",
+        "show_arrow": false,
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 1,
+        "width": "wrapper",
+        "layout_mobile": "carousel",
+        "color_scheme": "",
+        "padding_top": 32,
+        "padding_bottom": 32,
+        "heading_tag": "automatic"
+      }
+    },
+    "look": {
+      "type": "section-look",
+      "blocks": {
+        "product-1": {
+          "type": "product",
+          "settings": {
+            "show_product_card": true,
+            "position_x": 49,
+            "position_y": 38
+          }
+        },
+        "product-2": {
+          "type": "product",
+          "settings": {
+            "show_product_card": true,
+            "position_x": 38,
+            "position_y": 74
+          }
+        }
+      },
+      "block_order": [
+        "product-1",
+        "product-2"
+      ],
+      "settings": {
+        "layout": "",
+        "title": "Shop the look",
+        "heading": "",
+        "heading_font_size": "heading-medium",
+        "show_dots": true,
+        "products_per_row": "1",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--outline",
+        "show_arrow": false,
+        "enable_aspect_ratio": true,
+        "image_aspect_ratio": 1,
+        "color_scheme": "scheme-2",
+        "dot_color": "#1d2226",
+        "dot_background": "#ffffff",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "072f1c34-6d18-48c2-9202-19456a109bcd": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "d2a9b8b0-ef91-4d4c-ae6c-fe689fe4e082": {
+          "type": "image",
+          "settings": {
+            "column_width": 40,
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 1.2,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary hero__btn",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "acecae50-6ee3-44e4-8656-e55a9cbd8348": {
+          "type": "image",
+          "settings": {
+            "column_width": 60,
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 1.2,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary hero__btn",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "d2a9b8b0-ef91-4d4c-ae6c-fe689fe4e082",
+        "acecae50-6ee3-44e4-8656-e55a9cbd8348"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "carousel",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "67acba18-44dc-4e8f-a1e9-563d688b47a3": {
+      "type": "section-products-image",
+      "blocks": {
+        "cdbdd2d5-60f9-47fd-9f24-d052cb624ea5": {
+          "type": "products",
+          "settings": {
+            "layout_mobile": "2"
+          }
+        },
+        "ffd8019a-d484-4a39-a170-7f893b50e97c": {
+          "type": "image",
+          "settings": {
+            "mobile_height": "screen-height-one-half--mobile",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "text": "",
+            "text_font_size": "body-medium",
+            "flex_align": "align--middle-center",
+            "link_text": "",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#ffffff",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "cdbdd2d5-60f9-47fd-9f24-d052cb624ea5",
+        "ffd8019a-d484-4a39-a170-7f893b50e97c"
+      ],
+      "settings": {
+        "width": "wrapper--full-padded",
+        "reverse_blocks": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "9307bd2b-eb6a-4fc3-9f8d-f60932268bb9": {
+      "type": "section-hero",
+      "blocks": {
+        "db426f00-2ef1-449d-9b2c-1bf00db66169": {
+          "type": "heading",
+          "settings": {
+            "title": "From elevated streetwear to versatile athleisure, our designs transcend the confines of traditional sportswear, embracing a dynamic mix of colors, textures, and innovative silhouettes. Each ensemble is a canvas for you to express your unique style, to stand out, and make a statement.",
+            "heading_font_size": "heading-mini",
+            "heading_tag": "automatic"
+          }
+        },
+        "422a25f9-0973-4f98-8346-b247199630bd": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop the full collection",
+            "button_type": "btn--white",
+            "button_size": "btn--large",
+            "button_style": "btn--text",
+            "show_arrow": true
+          }
+        }
+      },
+      "block_order": [
+        "db426f00-2ef1-449d-9b2c-1bf00db66169",
+        "422a25f9-0973-4f98-8346-b247199630bd"
+      ],
+      "settings": {
+        "link": "",
+        "width": "wrapper--full",
+        "height": "sixty-fifty-height-hero",
+        "flex_align_desktop": "align--top-left-desktop",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "color_scheme": "scheme-2",
+        "show_text_background": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_placeholder": true
+      }
+    },
+    "collection-second": {
+      "type": "section-collection",
+      "settings": {
+        "featured_collection": "sweats",
+        "heading": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "text_font_size": "body-medium",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--black",
+        "button_size": "",
+        "button_style": "btn--outline",
+        "show_arrow": false,
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 1,
+        "width": "wrapper",
+        "layout_mobile": "2",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 32,
+        "heading_tag": "automatic"
+      }
+    },
+    "58cc0751-6661-4327-ad14-e786419ae1f5": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "5fe0577f-e9aa-4b29-aa10-ca971f6055a5": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "Oceanic Tee in Greige",
+            "button_type": "btn--black hero__btn",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "d2adfcd0-b356-4266-a584-4c4c1892589e": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "navigation shorts in sand",
+            "button_type": "btn--black hero__btn",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "131ebed2-57cf-4012-b4b0-879900472865": {
+          "type": "image",
+          "settings": {
+            "column_width": 33,
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "",
+            "heading_font_size": "heading-small",
+            "text": "",
+            "text_font_size": "body-medium",
+            "button_text": "our land tee in grey",
+            "button_type": "btn--black hero__btn",
+            "button_style": "btn--text",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "5fe0577f-e9aa-4b29-aa10-ca971f6055a5",
+        "d2adfcd0-b356-4266-a584-4c4c1892589e",
+        "131ebed2-57cf-4012-b4b0-879900472865"
+      ],
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "width": "wrapper",
+        "align_columns": "flex-align-top",
+        "layout_mobile": "1",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "460dc7dd-5ba6-47df-8f38-5d7c78d52ba3",
+    "059f2d3c-061e-45f3-b96a-0bf8d15e748f",
+    "c2b1eb09-1014-47bf-b61f-5f9f1ad9316f",
+    "collection-first",
+    "look",
+    "072f1c34-6d18-48c2-9202-19456a109bcd",
+    "67acba18-44dc-4e8f-a1e9-563d688b47a3",
+    "9307bd2b-eb6a-4fc3-9f8d-f60932268bb9",
+    "collection-second",
+    "58cc0751-6661-4327-ad14-e786419ae1f5"
+  ]
+}

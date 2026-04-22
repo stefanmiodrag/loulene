@@ -1,0 +1,713 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "heading_font_size": "heading-large",
+        "show_content": true,
+        "text_font_size": "body-medium",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "bc5808d4-4bce-4b80-a60f-16bee878a1d9": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--14679907991616__bc5808d4-4bce-4b80-a60f-16bee878a1d9-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Introducing",
+            "padding_bottom": 16
+          }
+        },
+        "template--14679907991616__bc5808d4-4bce-4b80-a60f-16bee878a1d9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Broadcast",
+            "heading_font_size": "heading-large",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__bc5808d4-4bce-4b80-a60f-16bee878a1d9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A powerful, feature-rich theme engineered to accelerate sales and create exceptional user experiences.</p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "template--14679907991616__bc5808d4-4bce-4b80-a60f-16bee878a1d9-subheading-1",
+        "template--14679907991616__bc5808d4-4bce-4b80-a60f-16bee878a1d9-heading-1",
+        "template--14679907991616__bc5808d4-4bce-4b80-a60f-16bee878a1d9-text-1"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "width": "wrapper--narrow",
+        "color_scheme": "",
+        "overlay_type": "disabled",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "731a2a3d-4d52-4f8a-b37a-b4315fe9337f": {
+      "type": "section-columns",
+      "blocks": {
+        "template--14679907991616__731a2a3d-4d52-4f8a-b37a-b4315fe9337f-image-1": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "image_shape": "normal",
+            "title": "High-quality, conversion-driven design",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>The Broadcast theme is meticulously crafted to blend aesthetics with functionality, ensuring not just a pretty storefront but one that converts. From layouts to typography, every element is designed to create an intuitive and memorable shopping experience.</p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 0.7,
+            "mobile_image_aspect_ratio": 0.7,
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__731a2a3d-4d52-4f8a-b37a-b4315fe9337f-image-2": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "image_shape": "normal",
+            "title": "The power of 'MegaNav'",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Take the hassle out of navigation with Broadcast's MegaNav feature. This dynamic, customizable navigation menu simplifies the user journey, making it easier for customers to find what they're looking for, thereby increasing conversions and sales.</p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 0.7,
+            "mobile_image_aspect_ratio": 0.7,
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__731a2a3d-4d52-4f8a-b37a-b4315fe9337f-image-3": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "image_shape": "normal",
+            "title": "Maximize conversions with 'Quick buy'",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>With the 'Quick Buy' option, shoppers can make immediate purchases directly from the product listing page, accelerating the buying process and boosting your conversion rates.</p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 0.7,
+            "mobile_image_aspect_ratio": 0.7,
+            "heading_tag": "automatic"
+          }
+        },
+        "9790178f-a170-4753-b3c7-7df0c0bace6f": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "image_shape": "normal",
+            "title": "Cohesive shopping with 'Product siblings'",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Make product discovery easier with the 'Siblings' feature. Link related products directly in the product view, providing a seamless shopping experience. Customers can easily explore related items, increasing the potential for bundled purchases.</p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 0.7,
+            "mobile_image_aspect_ratio": 0.7,
+            "heading_tag": "automatic"
+          }
+        },
+        "42842a35-cd49-421c-8fd9-c31fa5f3d7a3": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "image_shape": "normal",
+            "title": "Strategic upselling for higher revenue",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Utilize Broadcast's built-in upselling features to strategically display related products on both the product and cart pages. Encourage customers to add more to their cart, increasing your average order value.</p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 0.7,
+            "mobile_image_aspect_ratio": 0.7,
+            "heading_tag": "automatic"
+          }
+        },
+        "016adbf6-a7a3-4401-ab39-ab9f4f780de6": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "image_shape": "normal",
+            "title": "Speed, accessibility, and a mobile-friendly design",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>With a strong focus on performance, accessibility, and mobile responsiveness, the Broadcast theme ensures your store runs smoothly across all devices. Benefit from quicker load times and a design that's accessible to all, ensuring no customer is left behind.</p>",
+            "text_font_size": "body-medium",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "image_aspect_ratio": 0.7,
+            "mobile_image_aspect_ratio": 0.7,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "template--14679907991616__731a2a3d-4d52-4f8a-b37a-b4315fe9337f-image-1",
+        "template--14679907991616__731a2a3d-4d52-4f8a-b37a-b4315fe9337f-image-2",
+        "template--14679907991616__731a2a3d-4d52-4f8a-b37a-b4315fe9337f-image-3",
+        "9790178f-a170-4753-b3c7-7df0c0bace6f",
+        "42842a35-cd49-421c-8fd9-c31fa5f3d7a3",
+        "016adbf6-a7a3-4401-ab39-ab9f4f780de6"
+      ],
+      "settings": {
+        "title": "",
+        "heading_font_size": "heading-medium",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 3,
+        "layout_mobile": "1",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "heading_tag": "automatic"
+      }
+    },
+    "2448590b-9bcf-448f-87b2-7b8ea2b65cc9": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--14679907991616__2448590b-9bcf-448f-87b2-7b8ea2b65cc9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Detailed Feature List",
+            "heading_font_size": "heading-medium",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "template--14679907991616__2448590b-9bcf-448f-87b2-7b8ea2b65cc9-heading-1"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "width": "wrapper",
+        "color_scheme": "",
+        "overlay_type": "disabled",
+        "padding_top": 100,
+        "padding_bottom": 50
+      }
+    },
+    "e90c0e1d-0732-4831-9a60-f9bf6fc05e60": {
+      "type": "section-text-row",
+      "blocks": {
+        "template--14679907991616__e90c0e1d-0732-4831-9a60-f9bf6fc05e60-icon-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-planet",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Cart and checkout excellence",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Features like slide-out carts, sticky carts, and quick buy options streamline the user journey from selection to purchase.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__e90c0e1d-0732-4831-9a60-f9bf6fc05e60-icon-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-info-empty",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Robust upselling feature",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Maximize your sales by encouraging additional purchases both on product and cart pages.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__e90c0e1d-0732-4831-9a60-f9bf6fc05e60-icon-3": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-chat",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Product siblings feature",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Link related products directly in the product view to optimize conversion rates.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "7395136a-defc-428b-9920-d1c26a86922c": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Enhanced search & mega menu",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Allow customers to find products effortlessly with advanced search options and organized mega menus.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "template--14679907991616__e90c0e1d-0732-4831-9a60-f9bf6fc05e60-icon-1",
+        "template--14679907991616__e90c0e1d-0732-4831-9a60-f9bf6fc05e60-icon-2",
+        "template--14679907991616__e90c0e1d-0732-4831-9a60-f9bf6fc05e60-icon-3",
+        "7395136a-defc-428b-9920-d1c26a86922c"
+      ],
+      "settings": {
+        "title": "Optimized shopping experience",
+        "heading_font_size": "heading-small",
+        "align_heading": "text-center",
+        "align_text": "text-left",
+        "icon_alignment": "icon--left",
+        "width": "wrapper",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 2,
+        "layout_mobile": "1",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "f23699c4-b25f-46e0-b859-8a26425cf197": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "988028d4-1fa4-4a8f-8023-a03d19d42dd2": {
+      "type": "section-text-row",
+      "blocks": {
+        "template--14679907991616__988028d4-1fa4-4a8f-8023-a03d19d42dd2-icon-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shield",
+            "icon_size": 30,
+            "icon_color": "#ff0e0e",
+            "title": "Conversion optimization tools",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Employ cross-selling, recently viewed products, stock counters, and more.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__988028d4-1fa4-4a8f-8023-a03d19d42dd2-icon-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-star",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Powerful promotion features",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Utilize in-menu promotions, promotional banners and popups to strategically place promotional content.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__988028d4-1fa4-4a8f-8023-a03d19d42dd2-icon-3": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shield",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Trust and social proof elements",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Trust and social proof elements: Build credibility with product reviews, trust badges, and a dedicated <br/>FAQ page.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "87d1abee-b1f1-4c19-ae80-7b82954efd20": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Timeline section",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Timeline section: Attractively showcase your brand’s journey or any other progressive information, adding to your brand story and value proposition.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "template--14679907991616__988028d4-1fa4-4a8f-8023-a03d19d42dd2-icon-1",
+        "template--14679907991616__988028d4-1fa4-4a8f-8023-a03d19d42dd2-icon-2",
+        "template--14679907991616__988028d4-1fa4-4a8f-8023-a03d19d42dd2-icon-3",
+        "87d1abee-b1f1-4c19-ae80-7b82954efd20"
+      ],
+      "settings": {
+        "title": "Strategic marketing and conversion",
+        "heading_font_size": "heading-small",
+        "align_heading": "text-center",
+        "align_text": "text-left",
+        "icon_alignment": "icon--left",
+        "width": "wrapper",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 2,
+        "layout_mobile": "1",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "2a6a6831-3629-4d76-96d8-c5a8c98182a2": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "222a8d9a-2372-48fe-8bb3-f9fd11cd4135": {
+      "type": "section-text-row",
+      "blocks": {
+        "template--14679907991616__222a8d9a-2372-48fe-8bb3-f9fd11cd4135-icon-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shield",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Visual excellence in product display",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Benefit from features like image galleries, slideshows, and a unique 'text with products' section allowing embedded product images in text banners.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__222a8d9a-2372-48fe-8bb3-f9fd11cd4135-icon-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-trophy",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Comprehensive product details",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Provide essential details such as color swatches, product tabs, inventory count, etc.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "template--14679907991616__222a8d9a-2372-48fe-8bb3-f9fd11cd4135-icon-1",
+        "template--14679907991616__222a8d9a-2372-48fe-8bb3-f9fd11cd4135-icon-2"
+      ],
+      "settings": {
+        "title": "Merchandising mastery",
+        "heading_font_size": "heading-small",
+        "align_heading": "text-center",
+        "align_text": "text-left",
+        "icon_alignment": "icon--left",
+        "width": "wrapper",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 2,
+        "layout_mobile": "1",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "2c19f705-62e5-45a1-99fe-0199101662d7": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "005b0908-cbe9-4050-aa57-fb538666f4df": {
+      "type": "section-text-row",
+      "blocks": {
+        "template--14679907991616__005b0908-cbe9-4050-aa57-fb538666f4df-icon-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shield",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Email capture & customizable contact form",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Engage effectively with potential customers through customizable forms and thoughtful newsletter interactions.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__005b0908-cbe9-4050-aa57-fb538666f4df-icon-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-trophy",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Animated interactions & visual effects",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Keep your visitors engaged with animations, making browsing interactive and enjoyable.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "template--14679907991616__005b0908-cbe9-4050-aa57-fb538666f4df-icon-1",
+        "template--14679907991616__005b0908-cbe9-4050-aa57-fb538666f4df-icon-2"
+      ],
+      "settings": {
+        "title": "Customer engagement and retention",
+        "heading_font_size": "heading-small",
+        "align_heading": "text-center",
+        "align_text": "text-left",
+        "icon_alignment": "icon--left",
+        "width": "wrapper",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 2,
+        "layout_mobile": "1",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "bf2243fa-fec4-4dc7-9766-d70f0444a1f8": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "356d1687-1ab1-4cdf-a224-38c4bb1a5e61": {
+      "type": "section-text-row",
+      "blocks": {
+        "template--14679907991616__356d1687-1ab1-4cdf-a224-38c4bb1a5e61-icon-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shield",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Multilingual support",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Expand your market reach with translations available in English, French, Italian, German, and Spanish.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__356d1687-1ab1-4cdf-a224-38c4bb1a5e61-icon-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-trophy",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Product badges & press coverage",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Display your accolades and featured products to instill confidence in international buyers.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "template--14679907991616__356d1687-1ab1-4cdf-a224-38c4bb1a5e61-icon-1",
+        "template--14679907991616__356d1687-1ab1-4cdf-a224-38c4bb1a5e61-icon-2"
+      ],
+      "settings": {
+        "title": "International selling capabilities",
+        "heading_font_size": "heading-small",
+        "align_heading": "text-center",
+        "align_text": "text-left",
+        "icon_alignment": "icon--left",
+        "width": "wrapper",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 2,
+        "layout_mobile": "1",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "a0c8ceec-8813-415f-824c-d59886d607cb": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "ad57f92a-491c-4068-a420-6971d1562ea2": {
+      "type": "section-text-row",
+      "blocks": {
+        "template--14679907991616__ad57f92a-491c-4068-a420-6971d1562ea2-icon-1": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shield",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Blogs & press coverage",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Share insights and updates through dedicated sections, reinforcing your brand’s presence and authority.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__ad57f92a-491c-4068-a420-6971d1562ea2-icon-2": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-trophy",
+            "icon_size": 30,
+            "icon_color": "#545454",
+            "title": "Size chart & shipping information",
+            "heading_font_size": "heading-x-small",
+            "text": "<p>Offer essential details to resolve queries and facilitate informed purchasing decisions.</p>",
+            "text_font_size": "body-medium",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "template--14679907991616__ad57f92a-491c-4068-a420-6971d1562ea2-icon-1",
+        "template--14679907991616__ad57f92a-491c-4068-a420-6971d1562ea2-icon-2"
+      ],
+      "settings": {
+        "title": "Informative and persuasive content",
+        "heading_font_size": "heading-small",
+        "align_heading": "text-center",
+        "align_text": "text-left",
+        "icon_alignment": "icon--left",
+        "width": "wrapper",
+        "align_columns": "flex-align-top",
+        "layout": "grid",
+        "grid": 2,
+        "layout_mobile": "1",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 100,
+        "heading_tag": "automatic"
+      }
+    },
+    "a266de8a-8e04-4df3-8fff-838fddc1b107": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--14679907991616__a266de8a-8e04-4df3-8fff-838fddc1b107-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "The Broadcast theme is more than just a visual upgrade",
+            "heading_font_size": "heading-medium",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        },
+        "template--14679907991616__a266de8a-8e04-4df3-8fff-838fddc1b107-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It’s a comprehensive solution engineered to elevate every facet of your online store. Whether it's the seamless user experience, the strategic conversion tools, or the visual merchandising brilliance, Broadcast encapsulates it all, resonating with excellence and innovation. Transform your store with Broadcast, and experience a new wave of ecommerce success.</p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 16
+          }
+        },
+        "460dd1f1-3cf8-44ee-a8df-95fa13cb1325": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Purchase Broadcast",
+            "button_url": "https://themes.shopify.com/themes/broadcast",
+            "button_type": "btn--black",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "template--14679907991616__a266de8a-8e04-4df3-8fff-838fddc1b107-heading-1",
+        "template--14679907991616__a266de8a-8e04-4df3-8fff-838fddc1b107-text-1",
+        "460dd1f1-3cf8-44ee-a8df-95fa13cb1325"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "width": "wrapper--narrow",
+        "color_scheme": "",
+        "overlay_type": "disabled",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bc5808d4-4bce-4b80-a60f-16bee878a1d9",
+    "731a2a3d-4d52-4f8a-b37a-b4315fe9337f",
+    "2448590b-9bcf-448f-87b2-7b8ea2b65cc9",
+    "e90c0e1d-0732-4831-9a60-f9bf6fc05e60",
+    "f23699c4-b25f-46e0-b859-8a26425cf197",
+    "988028d4-1fa4-4a8f-8023-a03d19d42dd2",
+    "2a6a6831-3629-4d76-96d8-c5a8c98182a2",
+    "222a8d9a-2372-48fe-8bb3-f9fd11cd4135",
+    "2c19f705-62e5-45a1-99fe-0199101662d7",
+    "005b0908-cbe9-4050-aa57-fb538666f4df",
+    "bf2243fa-fec4-4dc7-9766-d70f0444a1f8",
+    "356d1687-1ab1-4cdf-a224-38c4bb1a5e61",
+    "a0c8ceec-8813-415f-824c-d59886d607cb",
+    "ad57f92a-491c-4068-a420-6971d1562ea2",
+    "a266de8a-8e04-4df3-8fff-838fddc1b107"
+  ]
+}

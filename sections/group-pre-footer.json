@@ -1,0 +1,45 @@
+{
+  "type": "custom.pre_footer",
+  "name": "Pre-footer",
+  "sections": {
+    "section-newsletter": {
+      "type": "section-newsletter",
+      "blocks": {
+        "74a1f5c8-2087-4b90-a8ba-d66b9ebe1d10": {
+          "type": "newsletter",
+          "settings": {
+            "subheading": "",
+            "heading": "Sign up",
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
+            "text_columns": 1,
+            "align_text": "text-center",
+            "show_name": false,
+            "button_text": "Join",
+            "show_arrow": true,
+            "terms": false,
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_social_links": false,
+            "bg_color": "",
+            "color": ""
+          }
+        }
+      },
+      "block_order": [
+        "74a1f5c8-2087-4b90-a8ba-d66b9ebe1d10"
+      ],
+      "disabled": true,
+      "settings": {
+        "width": "wrapper--full",
+        "height": "two-fifty-height-hero",
+        "mobile_height": "screen-height-one-half--mobile",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "section-newsletter"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "show_title": true,
+        "heading_font_size": "heading-large",
+        "show_content": true,
+        "text_font_size": "body-medium",
+        "align_text": "text-center",
+        "width": "wrapper",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "e7a7f17c-b727-4fa8-9d14-9eb960ebfc28": {
+      "type": "section-sidebar",
+      "blocks": {
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-header-1": {
+          "type": "header",
+          "settings": {
+            "title": "Shipping & Returns"
+          }
+        },
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-accordion-1": {
+          "type": "accordion",
+          "settings": {
+            "title": "How long does shipping usually take?",
+            "content": "<p>Shipping times can vary widely depending on the shipping method and the distance between the sender and recipient. It can range from a few hours for local deliveries to several weeks for international shipments.</p>"
+          }
+        },
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-accordion-2": {
+          "type": "accordion",
+          "settings": {
+            "title": "What are the different shipping methods available?",
+            "content": "<p>Common shipping methods include ground shipping, air shipping, sea shipping, express shipping, and freight shipping. The choice of method depends on the type of goods and delivery timeframe.</p>"
+          }
+        },
+        "20cf025d-cd7d-4ed4-9d48-502aa62c0edb": {
+          "type": "accordion",
+          "settings": {
+            "title": "How can I track my shipment?",
+            "content": "<p>You can track your shipment by using the provided tracking number on the carrier's website or app. Most carriers offer real-time tracking information to monitor the progress of your shipment.</p>"
+          }
+        },
+        "2b2791b3-0371-4f14-9601-f91156467f9f": {
+          "type": "accordion",
+          "settings": {
+            "title": "What is the difference between standard and expedited shipping?",
+            "content": "<p>Standard shipping is the regular, often slower shipping option, while expedited shipping is a faster option for quicker delivery. Expedited shipping usually comes at a higher cost.</p>"
+          }
+        },
+        "980bce19-2b53-4f25-bcd0-1b80d6b9a5d5": {
+          "type": "accordion",
+          "settings": {
+            "title": "Do I need to pay customs duties or taxes for international shipping?",
+            "content": "<p>Yes, for international shipments, customs duties and taxes may apply. These fees vary by country and are typically the responsibility of the recipient. Check with your local customs office for details.</p>"
+          }
+        },
+        "c107ecd0-2105-4b48-b56b-1989894b57f8": {
+          "type": "accordion",
+          "settings": {
+            "title": "How long do I have to return an item?",
+            "content": "<p>The return period can vary, but it's typically within 30 days of purchase. Some items may have shorter or longer return windows, so check the seller's policy for the exact timeframe.</p>"
+          }
+        },
+        "7bfa44dd-94c7-4092-89e2-155f8a1c6950": {
+          "type": "accordion",
+          "settings": {
+            "title": "How do I initiate a return?",
+            "content": "<p>To start a return, contact the seller or retailer where you made the purchase. They will guide you through the return process, which may involve providing specific information or shipping instructions.</p>"
+          }
+        },
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-header-2": {
+          "type": "header",
+          "settings": {
+            "title": "Product Care"
+          }
+        },
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-accordion-3": {
+          "type": "accordion",
+          "settings": {
+            "title": "How should I care for my new clothing items?",
+            "content": "<p>To care for your clothing items, always check the care label or instructions on the garment. In general, most clothing can be machine-washed in cold water with like colors, but specific care recommendations may vary.</p>"
+          }
+        },
+        "530c314d-e812-4d99-980e-6abbaae19d9d": {
+          "type": "accordion",
+          "settings": {
+            "title": "How do I prevent clothes from shrinking?",
+            "content": "<p>To prevent clothes from shrinking, wash them in cold water, avoid using high heat settings in the dryer, and consider air-drying or laying the items flat to dry.</p>"
+          }
+        },
+        "7451fc3c-c9e9-465f-9b45-8fc25e709631": {
+          "type": "accordion",
+          "settings": {
+            "title": "What's the best way to remove stains from clothing?",
+            "content": "<p>The method for removing stains depends on the type of stain and fabric. It's essential to address stains promptly, follow care label instructions, and use appropriate stain removers.</p>"
+          }
+        },
+        "c2c43f23-862c-4113-b5f1-521a5f53700a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Are there any clothing items that should not be machine-washed?",
+            "content": "<p>Some clothing items, such as delicate lace, beaded garments, and leather or suede pieces, should not be machine-washed. Hand-washing or professional cleaning may be required for these items.</p>"
+          }
+        },
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-header-3": {
+          "type": "header",
+          "settings": {
+            "title": "Company"
+          }
+        },
+        "2f49c1d5-ef6c-4289-8da6-4c663da6521a": {
+          "type": "accordion",
+          "settings": {
+            "title": "What is your brand's commitment to sustainability and ethical practices?",
+            "content": "<p>We are dedicated to sustainability and ethical practices. We prioritize [mention your sustainability initiatives, such as using eco-friendly materials, fair labor practices, or ethical sourcing]. Learn more about our sustainability efforts on our Sustainability page.</p>"
+          }
+        },
+        "c063993b-3ee8-4879-bbff-29096acc32e2": {
+          "type": "accordion",
+          "settings": {
+            "title": "How can I stay informed about your latest collections and news?",
+            "content": "<p>You can stay informed about our latest collections, news, and events by subscribing to our newsletter. Additionally, follow us on social media platforms like Instagram, Facebook, and Twitter to get the inside scoop on everything</p>"
+          }
+        },
+        "97c18752-c20d-47dd-9f0b-57df53e55c9b": {
+          "type": "accordion",
+          "settings": {
+            "title": "How do I determine the right size for my clothing purchase?",
+            "content": "<p>To find the perfect size, please refer to our Size Guide, which offers detailed measurements for our clothing items. If you have specific questions about sizing, our customer support team is here to help.</p>"
+          }
+        },
+        "3e641ce6-68cf-4364-9dd4-22c0a9a58cfe": {
+          "type": "accordion",
+          "settings": {
+            "title": "How can I get in touch?",
+            "content": "<p><a href=\"/pages/contact-us\" title=\"Contact Us\">Still have questions</a>? We're happy to help! Please email us at hi@email.com and we will get back to you within 24 hours.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-header-1",
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-accordion-1",
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-accordion-2",
+        "20cf025d-cd7d-4ed4-9d48-502aa62c0edb",
+        "2b2791b3-0371-4f14-9601-f91156467f9f",
+        "980bce19-2b53-4f25-bcd0-1b80d6b9a5d5",
+        "c107ecd0-2105-4b48-b56b-1989894b57f8",
+        "7bfa44dd-94c7-4092-89e2-155f8a1c6950",
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-header-2",
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-accordion-3",
+        "530c314d-e812-4d99-980e-6abbaae19d9d",
+        "7451fc3c-c9e9-465f-9b45-8fc25e709631",
+        "c2c43f23-862c-4113-b5f1-521a5f53700a",
+        "template--14654551523392__e7a7f17c-b727-4fa8-9d14-9eb960ebfc28-header-3",
+        "2f49c1d5-ef6c-4289-8da6-4c663da6521a",
+        "c063993b-3ee8-4879-bbff-29096acc32e2",
+        "97c18752-c20d-47dd-9f0b-57df53e55c9b",
+        "3e641ce6-68cf-4364-9dd4-22c0a9a58cfe"
+      ],
+      "settings": {
+        "heading_font_size": "heading-small",
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e7a7f17c-b727-4fa8-9d14-9eb960ebfc28"
+  ]
+}

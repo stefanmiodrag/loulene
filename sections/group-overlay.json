@@ -1,0 +1,97 @@
+{
+  "type": "aside",
+  "name": "Overlay",
+  "sections": {
+    "cart-drawer": {
+      "type": "cart-drawer",
+      "blocks": {
+        "cart-message": {
+          "type": "cart-message",
+          "settings": {
+            "cart_custom_message_text": "<p>Use code <strong>WELCOME10</strong> for 10% off your first order.</p>",
+            "text_font_size": "body-x-small",
+            "text_alignment": "text-center",
+            "cart_custom_message_color": "#32393e",
+            "pin_to_bottom": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title": "Cart",
+            "text_font_size": "body-medium"
+          }
+        },
+        "products": {
+          "type": "products",
+          "settings": {
+            "text_font_size": "body-small",
+            "pin_to_bottom": false
+          }
+        },
+        "upsell-products": {
+          "type": "upsell-products",
+          "settings": {
+            "upsell_auto_open": true,
+            "pin_to_bottom": false
+          }
+        },
+        "free-shipping": {
+          "type": "free-shipping",
+          "settings": {
+            "message": "You are ||amount|| away from free shipping.",
+            "text_font_size": "body-x-small",
+            "color_scheme": "",
+            "pin_to_bottom": true
+          }
+        },
+        "discount_code_yGDi9V": {
+          "type": "discount-code",
+          "settings": {
+            "pin_to_bottom": true
+          }
+        },
+        "shipping_estimate_CMtayf": {
+          "type": "shipping-estimate",
+          "settings": {
+            "pin_to_bottom": true
+          }
+        },
+        "checkout-buttons": {
+          "type": "checkout-buttons",
+          "settings": {
+            "enable_additional_buttons": false,
+            "show_view_cart_button": false,
+            "pin_to_bottom": true
+          }
+        },
+        "product_list_rxc6hd": {
+          "type": "product-list",
+          "disabled": true,
+          "settings": {
+            "title": "Buy it with",
+            "upsell_auto_open": false,
+            "pin_to_bottom": false
+          }
+        }
+      },
+      "block_order": [
+        "cart-message",
+        "title",
+        "products",
+        "upsell-products",
+        "free-shipping",
+        "discount_code_yGDi9V",
+        "shipping_estimate_CMtayf",
+        "checkout-buttons",
+        "product_list_rxc6hd"
+      ],
+      "settings": {
+        "color_scheme": ""
+      }
+    }
+  },
+  "order": [
+    "cart-drawer"
+  ]
+}
